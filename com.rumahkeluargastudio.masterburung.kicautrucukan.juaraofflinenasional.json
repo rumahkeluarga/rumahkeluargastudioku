@@ -33,11 +33,11 @@
 "Enable_Sticky_Notification" : true,
 
 
-"STARAPPID" : "",
+"STARAPPID" : "xx",
 
 "ADMOB_BANNER" : "",
 "ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_NATIV" : "xx",
 
 "hpk_alien" : "",
 "HPK_ADMOB1" : "",
