@@ -24,7 +24,7 @@
 
 "INTER_COUNT" : 3,
 
-"enable_strap" : true,
+"enable_strap" : false,
 "enable_strap_SplahScreen" : true,
 
 "ads_on_exit_dialog" : true,
