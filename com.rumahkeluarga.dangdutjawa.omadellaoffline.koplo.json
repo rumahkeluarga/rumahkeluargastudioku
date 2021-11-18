@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Selamat menikmati semoga bermanfaat",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -33,10 +33,10 @@
 "Enable_Sticky_Notification" : true,
 
 
-"STARAPPID" : "xx",
+"STARAPPID" : "210819610",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
+"ADMOB_BANNER" : "ca-app-pub-7307059675664076/6179624951",
+"ADMOB_INTER" : "ca-app-pub-7307059675664076/9616307085",
 "ADMOB_NATIV" : "xx",
 
 "hpk_alien" : "",
@@ -66,7 +66,7 @@
 "Button_Rating" : "RATING",
 
 
-"Exit_Popup_Dialog" : "Kami akan selalu memberikan tambahan lagu duo ageng terbaru untuk kalian semua \n\n Bantu kami dengan rating bintang 5 ya agar kami  selalu bersemangat memberikan yang terbaik untuk kalian semua:)",
+"Exit_Popup_Dialog" : "Kami akan selalu memberikan tambahan lagu OM ADELLA terbaru untuk kalian semua \n\n Bantu kami dengan rating bintang 5 ya agar kami  selalu bersemangat memberikan yang terbaik untuk kalian semua:)",
 "Rate_Button" : "Rate 5 Bintang",
 "Later_Button" : "Rate Nanti",
 "enable_Share_button" : true,
