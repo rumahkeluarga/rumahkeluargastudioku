@@ -1,0 +1,78 @@
+{
+"redirect" : {
+
+"HOMEURL" : "file:///android_asset/music/playlist.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Selamat menikmati semoga bermanfaat",
+
+
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
+
+"INTER_COUNT" : 3,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : true,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : true,
+"Enable_Sticky_Notification" : true,
+
+
+"STARAPPID" : "211655401",
+
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+"ADMOB_NATIV" : "xx",
+
+"hpk_alien" : "",
+"HPK_ADMOB1" : "",
+"HPK_ADMOB2" : "",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : "",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "frgtxx",
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "x",
+"APPLOVIN_INTERSTITIAL_ID" : "x",
+
+"Button_Start" : "PUTAR LAGU",
+"Button_Share" : "BAGIKAN APP",
+"Button_Rating" : "RATING SEKARANG",
+
+
+"Exit_Popup_Dialog" : "Kami akan selalu memberikan tambahan lagu terbaru untuk kalian semua \n\n Bantu kami dengan rating bintang 5 ya agar kami  selalu bersemangat memberikan yang terbaik untuk kalian semua:)",
+"Rate_Button" : "Rate 5 Bintang",
+"Later_Button" : "Rate Nanti",
+"enable_Share_button" : true,
+"Share_TXT" : "Keren sekali Download Now",
+"More_Button" : "Bagikan",
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
+}
