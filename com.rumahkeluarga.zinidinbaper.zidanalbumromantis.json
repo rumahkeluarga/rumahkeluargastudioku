@@ -27,7 +27,7 @@
 "enable_strap" : true,
 "enable_strap_SplahScreen" : true,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "Mode_offline_mp3" : true,
 "Enable_Sticky_Notification" : true,
