@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Selamat menikmati semoga bermanfaat",
 
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -33,10 +33,10 @@
 "Enable_Sticky_Notification" : true,
 
 
-"STARAPPID" : "210610473",
+"STARAPPID" : "",
 
-"ADMOB_BANNER" : "ca-app-pub-7307059675664076/8166466373",
-"ADMOB_INTER" : "ca-app-pub-7307059675664076/1409486336",
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
 "ADMOB_NATIV" : "xx",
 
 "hpk_alien" : "",
